@@ -17,9 +17,13 @@ sections:
       Olá, eu sou o pedro paiva, estudante no curso técnico de gestão e
       programação de sistemas informáticos
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Estou a explorar o mundo da programação e da gestão de sistemas
+      informáticos. Ao longo do meu percurso escolar, desenvolvi competências em
+      linguagens de programação, bases de dados, redes e administração de
+      sistemas. Sou apaixonado pela criação de soluções inovadoras e pela
+      automação de processos, procurando sempre aprender e melhorar as minhas
+      competências técnicas.Aqui podes encontrar o meu currículo e conhecer mais
+      sobre os meus projetos e experiências. Vamos construir o futuro juntos!
     styles:
       self:
         height: auto
