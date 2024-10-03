@@ -14,12 +14,16 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Olá, eu sou o pedro paiva, estudante no curso técnico de gestão e
+      programação de sistemas informáticos
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Estou a explorar o mundo da programação e da gestão de sistemas
+      informáticos. Ao longo do meu percurso escolar, desenvolvi competências em
+      linguagens de programação, bases de dados, redes e administração de
+      sistemas. Sou apaixonado pela criação de soluções inovadoras e pela
+      automação de processos, procurando sempre aprender e melhorar as minhas
+      competências técnicas.Aqui podes encontrar o meu currículo e conhecer mais
+      sobre os meus projetos e experiências. Vamos construir o futuro juntos!
     styles:
       self:
         height: auto
@@ -47,6 +51,42 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+  - type: CtaSection
+    title: Let's do this
+    text: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
+    actions:
+      - type: Button
+        label: Try it now
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -84,7 +124,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
