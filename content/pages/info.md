@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Sou uma pessoa curiosa e apaixonada por tecnologia. Desde cedo, sempre
+      ### Sou uma pessoa curiosa e apaixonada por tecnologia. Desde cedo, sempre
       adorei resolver problemas e criar coisas novas, o que me levou a escolher
       o curso de Gestão e Programação de Sistemas Informáticos. No meu tempo
       livre, gosto de explorar novas ferramentas, aprender sobre inovações
